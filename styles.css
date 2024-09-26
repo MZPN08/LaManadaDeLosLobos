@@ -1,0 +1,61 @@
+body {
+    font-family: monospace;
+    background-color: #0E2249; /* Color de fondo */
+    color: white;
+}
+
+header{
+    height: 20%;
+    font-size: 30px;
+    text-align: center;
+    background-color: #B21B1B;
+}
+#Definicion{
+    font-size: 20px;
+    text-align: justify;
+    background-color: #163061;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 94%;
+    height: 20%;
+    }
+#Episodios{
+    background-color: #163061;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 94%;
+    height: 60%;
+    }
+#Episodios h1{
+    font-size: 30px;
+}
+#Episodios h2{
+    font-size: 50px;
+}
+#Nuevo{
+    font-size: 20px;
+    text-align: center;
+    background-color: #21478F;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    height: 25%;
+    }
+#Viejo{
+    top:600px;
+    font-size: 20px;
+    text-align: center;
+    background-color: #21478F;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    width: 90%;
+    height: 25%;
+    }
